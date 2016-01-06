@@ -1,0 +1,28 @@
+{
+  "name": "yourfile",
+  "version": "1.0.0",
+  "description": "File size exercise for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcneves/yourfile.git"
+  },
+  "keywords": [
+    "freeCodeCamp",
+    "file",
+    "size"
+  ],
+  "author": "Lucas Neves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcneves/yourfile/issues"
+  },
+  "homepage": "https://github.com/lcneves/yourfile#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "multer": "^1.1.0"
+  }
+}
